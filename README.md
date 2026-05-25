@@ -332,4 +332,4 @@ int main() {
 
 
 ## RESULT:
-Thus, the program has been executed using CUDA to demonstrate and compare the performance of parallel sorting algorithms (Bubble Sort and Merge Sort) on the GPU vers
+Thus, the program has been executed using CUDA to demonstrate and compare the performance of parallel sorting algorithms (Bubble Sort and Merge Sort) on the GPU versus their sequential implementations on the CPU.
